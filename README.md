@@ -1,7 +1,7 @@
 Hi 👋 My name is Richu Shibu Immatty
 ====================================
 
- Web Solutions Engineer 
+ Full Stack Developer 
 -------------
 
 A full-stack developer with experience in both back-end and front-end development. Skilled in a range of programming languages and frameworks, with a proven track record of developing successful applications. Able to work independently and as part of a team, and comfortable with agile development methods.
