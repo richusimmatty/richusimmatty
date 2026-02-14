@@ -8,7 +8,7 @@ A full-stack developer with experience in both back-end and front-end developmen
 
 *   🌍  I'm based in London, United Kingdom
 *   ✉️  You can contact me at [richusimmatty@gmail.com](mailto:richusimmatty@gmail.com)
-*   🚀  I'm currently working on [React E-commerce Application](http://github.com/richusimmatty/crwn-clothing)
+*   🚀  I'm currently working on [Secure Local RAG Agent](https://github.com/richusimmatty/Local-RAG-Node.git)
 *   🧠  I'm learning Laravel
 *   🤝  I'm open to collaborating on Interesting Projects
 
